@@ -1,0 +1,1408 @@
+.line {
+    /* border: 1px solid black; */
+    height: 55px;
+    width: 1450px;
+    background-color: rgb(190, 204, 213);
+    margin-top: -10px;
+
+    
+    
+}
+.submaindivofline{
+    height: 50px;
+    width: 700px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+#parentborder {
+    height: 75px;
+    width: 1450px;
+    /* border: 2px solid black; */
+    display: flex;
+    background-color: rgb(255,216,93);
+    position: fixed;
+    position: sticky;
+    top: 0;
+}
+
+.logo {
+    width: 100%;
+}
+
+.imgb {
+    height: 70%;
+    width: 180px;
+    /* border: 2px solid black; */
+    margin: auto;
+    margin-left: 10px;
+}
+
+#parentb {
+    height: 80%;
+    width: 500px;
+    /* border: 2px solid black; */
+    display: flex;
+    margin-right: 300px;
+}
+
+.childb {
+    /* border: 1px solid black; */
+    height: 80%;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+#parentb1 {
+    height: 60px;
+    width: 250px;
+    /* border: 2px solid black; */
+    display: flex;
+    margin-right: 50px;
+    margin-top: 7px;
+    
+
+
+}
+
+.childb1 {
+    height: 50px;
+    width: 150px;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: auto;
+
+}
+.signupmainpagebtn{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(1,121,95);
+    /*background: transparent;*/
+    /* border: rgb(1,121,95); */
+    border-radius: 27px;
+   
+
+}
+.loginmainbtn{
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+    /*background: transparent;*/
+    /* border: 1px solid black; */
+    border-radius: 27px;
+}
+
+#maindiv {
+    height: 735px;
+    width: 1450px;
+    /* border: 2px solid red; */
+    display: flex;
+
+
+}
+
+
+.img1 {
+    height: 735px;
+    width: 785px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+
+.inimg {
+    width: 100%;
+    height: 100%;
+
+}
+
+.detail1 {
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 7px;
+    height: 180px;
+}
+
+.detail11 {
+    margin: auto;
+    display: flex;
+    height: 100px;
+    width: 600px;
+    /* border: 1px solid red; */
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+.maindivdetail1 {
+    height: 220px;
+    width: 680px;
+    /* border: 1px solid black; */
+    margin-top: 90px;
+    margin-left: 7px;
+
+}
+
+.maindivdetail11 {
+    width: 680px;
+    height: 120px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-left: 7px;
+
+}
+
+.jointoday {
+    height: 100px;
+    width: 680px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-left: 7px;
+    margin-top: 20px;
+}
+
+.jointoday1 {
+    height: 70px;
+    width: 602px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 7px;
+    display: flex;
+
+}
+
+
+
+.applestoreimg{
+    height: 40px;
+    width: 120px;
+    /* border: 1px solid black; */
+    margin: auto;
+    
+
+}
+
+.roundbuttondiv{
+
+    width: 150px;
+    height: 70px;
+    /* border: 1px solid black; */
+
+
+}
+
+.roundbutton {
+    width: 140px;
+    height: 60px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-left: 7px;
+}
+
+.roundbutton1{
+    background-color: rgb(1,121,95);
+    /*background: transparent;*/
+    /* border: rgb(1,121,95); */
+    border-radius: 27px;
+    height: 55px;
+    width: 130px;
+
+}
+
+.getstartedround{
+    background-color: rgb(1,121,95);
+    /*background: transparent;*/
+    /* border: rgb(1,121,95); */
+    border-radius: 27px;
+    height: 55px;
+    width: 130px;
+
+}
+
+.ordiv{
+    height: 40px;
+    width: 40px;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+
+
+}
+
+.or {
+    height: 35px;
+    width: 36px;
+    /* border: 1px solid brown; */
+    margin: auto;
+    
+
+}
+
+.or1 {
+    height: 20px;
+    width: 25px;
+    margin: auto;
+    margin-left: 2px;
+
+}
+
+.appleimgmaindiv{
+    height: 50px;
+    width: 170;
+    /* border: 1px solid red; */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.textnumlink {
+    height: 70px;
+    width: 680px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-left: 7px;
+}
+
+/* here we start for 2nd page */
+.maindiv2 {
+    height: 735px;
+    width: 1450px;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.img2 {
+    height: 735px;
+    width: 785px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+
+.inimg2 {
+    width: 100%;
+    height: 100%;
+
+}
+
+.detail2 {
+    height: 735px;
+    width: 785px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+
+.detail21 {
+    height: 300px;
+    width: 580px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 210px;
+
+}
+
+.ingetstarted {
+    height: 70px;
+    width: 580px;
+    /* border: 1px solid blue; */
+    margin: auto;
+
+
+}
+
+.ingetstarted1 {
+    height: 70px;
+    width: 200px;
+    /* border: 1px solid black; */
+   
+
+
+}
+
+.page3heading {
+    height: 80px;
+    width: 1090px;
+    /* border: 1px solid red; */
+    margin: auto;
+
+}
+
+.parenttieupcomp {
+    height: 350px;
+    width: 1400px;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.parenttieupcomp1 {
+    height: 100px;
+    width: 220px;
+    /* border: 1px solid black; */
+    margin-top: 50px;
+
+
+}
+
+.compimgs {
+    height: 100%;
+    width: 100%;
+
+}
+
+.ndmore {
+    height: 60px;
+    width: 1350px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.maindivvid {
+    height: 850px;
+    width: 100%;
+    /* border: 1px solid black; */
+    margin: auto;
+    background-color: rgb(207, 221, 187);
+}
+
+.viddivtext {
+    height: 100px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.videodiv {
+    height: 600px;
+    width: 1200px;
+    /* border: 1px solid black; */
+}
+
+.header5thpg {
+    height: 150px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.header5thpg1 {
+    height: 20px;
+    width: 100%;
+    /* border: 1px solid black; */
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.persentagethng {
+    height: 800px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: flex;
+
+
+}
+
+.details5pg {
+    height: 800px;
+    width: 620px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+
+.image5pg {
+    height: 780px;
+    width: 750px;
+    /* border: 1px solid black; */
+   
+}
+
+/*
+.divofdetail5{
+    height:60px ;
+    width: 100px;
+    /* border: 1px solid red; */
+    margin-left : 0px;
+}
+*/
+
+.divofdetailtext{
+    height: 50px;
+    width: 550px;
+    /* border: 1px solid red; */
+    margin: auto;
+    
+    
+}
+
+.childdetails5pg {
+    height: 50px;
+    width: 550px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 60px;
+}
+.mainlearnndtext{
+
+    height: 200px;
+    width: 550px;
+    /* border: 1px solid red; */
+    margin: auto;
+    
+}
+
+.learnmoreroundbtn{
+    height: 52px;
+    width: 135px;
+    /* border: 1px solid  rgb(1,121,95); */
+    border-radius: 30px;
+    margin-top: 4px;
+}
+
+
+
+.btnreadmore{
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    /* border: rgb(1,121,95); */
+    background-color: transparent;
+
+}
+
+.learnmoreroundbtn:hover{
+    background-color : rgb(1,121,95);
+    color:white ;
+    
+
+}
+
+
+/*btnreadmore:hover{
+    
+    color:rgb(1,121,95);
+    background-color: white;
+
+}
+*/
+
+
+.mainlearnn{
+    height: 60px;
+    width: 550px;
+    /* border: 1px solid red; */
+    
+    margin: auto;
+}
+
+.firstline{
+    height: 20px;
+    width: 550px;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+}
+.secondline{
+    height: 100px;
+    width: 550px;
+    /* border: 1px solid red; */
+}
+
+.momsonsmile {
+    height: 100%;
+    width: 100%;
+}
+
+/* 6th page */
+
+.heading6th {
+    height: 110px;
+    width: 1250px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.maindiv6thpg {
+    height: 735px;
+    width: 100%px;
+    /* border: 1px solid black; */
+    margin: auto;
+    display: flex;
+}
+
+.meetgirl6th {
+    height: 100%;
+    width: 100%;
+}
+
+.childdiv6th {
+    height: 700px;
+    width: 1550px;
+    /* border: 1px solid red; */
+    margin: auto;
+
+}
+
+.inchilddiv6th {
+    height: 600px;
+    width: 600px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inner4divs {
+    height: 260px;
+    width: 250px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+
+.smallimagediv {
+    height: 80px;
+    width: 90px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+}
+
+.childsubdivtext {
+    height: 170px;
+    width: 250px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.smallimages6th {
+    width: 100%;
+    height: 100%;
+
+}
+
+.mainheadtext7th {
+    height: 120px;
+    width: 100%;
+    /* border: 1px solid black; */
+
+}
+
+.maindiv7thpg {
+    height: 800px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+
+}
+
+.divvid7thpg {
+    height: 750px;
+    width: 700px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+
+.video7thpg {
+    width: 100%;
+    height: 100%;
+}
+
+.textchildmain {
+    height: 140px;
+    width: 650px;
+    margin: auto;
+    /* border: 1px solid red; */
+    margin-top: 40px;
+
+
+}
+
+
+.becomeamemberedit{
+    background-color: rgb(1,121,95);
+    /*background: transparent;*/
+    /* border: rgb(1,121,95); */
+    border-radius: 27px;
+    height: 55px;
+    width: 180px;
+    border: 0px;
+}
+
+.becomeamemberbtn {
+    height: 140px;
+    width: 650px;
+    margin: auto;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    
+
+
+
+}
+
+.maindiv8thpg {
+    height: 600px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.heading8thpg {
+    height: 70px;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+.text8thpg {
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 70px;
+    background-color: rgb(207, 221, 187);
+    display: flex;
+    margin: -10px;
+
+}
+
+.subtitle8thpg {
+    height: 300px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    margin: auto;
+    
+
+}
+
+.maindiv9th {
+    height: 520px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+}
+
+.innerchildmain9th {
+    height: 400px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(1, 121, 95);
+    display: flex;
+    
+
+
+
+}
+
+.image9thpg {
+    height: 300px;
+    width: 500px;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+    margin: auto;
+
+}
+
+.childtextdiv9th {
+    height: 300px;
+    width: 600px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-right: 80px;
+
+}
+
+.inimage9th {
+    height: 100%;
+    width: 100%;
+
+}
+
+.headertext {
+    height: 100px;
+    width: 500px;
+    /* border: 1px solid red; */
+}
+.signup9th{
+    
+    background-color: rgb(253,214,87);
+    /*background: transparent;*/
+    /* border: rgb(253,214,87); */
+    border-radius: 27px;
+    height: 48px;
+    width: 110px;
+
+}
+
+.email9thpg {
+    height: 80px;
+    width: 510px;
+    /* border: 1px solid black; */
+
+}
+.inputmailbox{
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    /* border-color: white; */
+
+}
+
+.maindivgoodnewss {
+    height: 700px;
+    width: 100%;
+    /* border: 1px solid black */
+}
+
+.maindivgoodnews {
+    height: 80px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 30px;
+
+}
+
+.maindivfor4news {
+    height: 600px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+}
+
+.textofnews {
+    height: 450px;
+    width: 350px;
+    /* border: 1px solid black; */
+    margin: auto;
+    background-color: rgb(253, 214, 87);
+    ;
+
+}
+
+.headingtitle {
+    height: 90px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+
+}
+
+.imgall4th {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(253, 214, 87);
+    margin: auto;
+}
+
+.readmore10thpg {
+    height: 60px;
+    width: 300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 80px;
+
+
+}
+
+.readmore10thpg2nd {
+    height: 60px;
+    width: 300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 106px;
+
+
+}
+
+.readmore10thpg3rd {
+    height: 60px;
+    width: 300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 47px;
+
+}
+
+.readmore10thpg4th {
+    height: 60px;
+    width: 300px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 106px;
+
+}
+
+.maindiv11thpg {
+    height: 800px;
+    width: 100%;
+    /* border: 1px solid black; */
+
+
+}
+
+.childdiv11thpg {
+    height: 300px;
+    width: 900px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+
+
+}
+
+.headerof11thpg {
+    height: 100px;
+    width: 100%;
+    /* border: 1px solid red; */
+
+
+}
+
+.imagemaindiv11th {
+    height: 300px;
+    width: 400px;
+    /* border: 1px solid red; */
+
+}
+
+.img1stof11thpg {
+    height: 100%;
+    width: 100%;
+
+}
+
+.textdetailsof11thpg {
+    height: 300px;
+    width: 500px;
+    /* border: 1px solid red; */
+    background-color: rgb(253, 214, 87);
+}
+
+.forfamilyheadtext {
+    height: 50px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin-top: 40px;
+
+}
+
+.middletextoftextdetails {
+    height: 60px;
+    width: 100%;
+    /* border: 1px solid red; */
+
+
+}
+
+.buttonjoinnow {
+    height: 50px;
+    width: 350px;
+    /* border: 1px solid red; */
+    display: flex;
+
+
+}
+.page11thjoinnowdiv{
+    height: 50px;
+    width: 120px;
+    border: 1px solid black;
+}
+.page11thjoinnowbtn{
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+    background-color: rgb(1,121,95);
+}
+
+.foremployersbutton {
+    height: 20px;
+    width: 200px;
+    /* border: 1px solid red; */
+
+}
+.learnabouttext{
+    height: 60px;
+    width: 400px;
+    border: 1px solid black;
+    margin-left: 145px;
+}
+
+.maindivof12thpg {
+    height: 600px;
+    width: 100%;
+    /* border: 1px solid red; */
+    margin: auto;
+
+}
+
+.subchildmain12th {
+    height: 350px;
+    width: 350px;
+    /* border: 1px solid black; */
+    margin: auto;
+
+
+
+
+
+
+}
+
+.img1st {
+    height: 100%;
+    width: 100%;
+
+}
+
+.image3rd {
+    width: 100%;
+    height: 100%;
+}
+
+.mainchilddiv12th {
+    height: 400px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    display: flex;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin: auto;
+
+}
+
+.subtitletextofimg {
+    height: 50px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    margin-left: 100px;
+    display: flex;
+
+
+
+}
+
+.subchildofsubtitle {
+    height: 40px;
+    width: 350px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 0px;
+}
+
+.mainchilddiv {
+    height: 130px;
+    width: 300px;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 0%;
+
+}
+
+
+.imgof12thpg {
+    height: 100%;
+    width: 100%;
+}
+
+.maindivoflinkedtext {
+    height: 140px;
+    width: 1200px;
+    /* border: 1px solid red; */
+    display: flex;
+    margin-left: 100px;
+
+
+}
+
+
+
+.maindiv13thpg{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid red; */
+   
+    
+}
+
+
+
+.mainchilddiv13th{
+    height: 250px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    background-color: rgb(253,214,87);
+    
+
+    
+}
+
+.textmaindiv{
+    height: 70px;
+    width: 200px;
+    /* border: 1px solid red;     */
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: rgb(253,214,87);
+
+}
+.maindivmiddlepart{
+    height: 200px;
+    width: 500px;
+    /* border: 1px solid red; */
+    margin-left: 100px;
+    margin-top: 30px;
+    background-color: rgb(253,214,87);
+
+}
+.textmaindiv13th1{
+    height: 120px;
+    width: 450px;
+    /* border: 1px solid red; */
+    background-color: rgb(253,214,87);
+}
+.playstoreimg13th{
+    height: 40px;
+    width: 130px;
+    /* border: 1px solid red; */
+    background-color: rgb(253,214,87);
+}
+.imgplaystore13th{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(253,214,87);
+
+}
+
+.bigimgdmaindiv{
+    width: 400px;
+    height: 250px;
+    /* border: 1px solid black; */
+    background-color: rgb(253,214,87);
+    margin-left: 130px;
+    
+}
+.bigimg{
+    width: 100%;
+    height: 100%
+}
+.maindivofhalf13th{
+    height: 700px;
+    width: 100%;
+    /* border: 1px solid red  ; */
+}
+
+
+/* here we start the last page */
+
+
+
+.lastmain{
+    height: 800px;
+    width: 100%;
+    /* border: solid black 2px; */
+    display: flex;
+    background-color: rgb(13,31,44);
+     
+
+}
+.lastchildofmain{
+    height: 95%;
+    width: 95%;
+    /* border: solid red 2px; */
+    margin: auto;
+    display: flex;
+   
+    
+    
+}
+
+.childmain2divs{
+    height: 700px;
+    width: 700px;
+    /* border:  white solid 1px; */
+    margin: auto;
+}
+
+.startingtext{
+    width: 537px;
+    height: 153.99px;
+    /* border: solid red 1px; */
+
+
+}
+.startingbox{
+    height: 32%;
+    width: 100%;
+    /* border: solid blue 1px; */
+    display: flex;
+
+}
+.inputmaindiv{
+    height: 50px;
+    width: 325px;
+    /* border: solid red 1px; */
+    margin: auto;
+    margin-left: 10px;
+    display: flex;
+    
+
+
+}
+
+.buttonbox{
+    height: 50px;
+    width: 24px;
+    /* border: solid red 1px; */
+    margin-right: 190px;
+    display: flex;
+    background-color: white;
+}
+.childbuttonarrow{
+    height: 25px;
+    width: 10px;
+    /* border: solid green 1px ; */
+    margin: auto;
+    background-color: white;
+
+}
+.inputuser{
+
+    width: 100%;
+
+}
+.socialmediamain{
+    width: 537px;
+    height: 72px;
+    /* border: black solid 1px; */
+}
+.childofsocialmedia{
+    height: 50px;
+    width: 537px;
+    /* border: 1px solid red; */
+    display: flex;
+
+}
+.socialiconmain{
+    width: 45px;
+    height: 45px;
+    /* border: white solid 1px; */
+    margin-left: 10px;
+    
+    
+}
+.icons{
+    width: 15px;
+    height: 30px;
+    /* border: green solid 1px; */
+    margin: auto;
+    margin-top: 5px;
+
+}
+.fbimg{
+    height:100%;
+    width: 100% ;
+    background-color: transparent;
+    
+
+}
+.contactdetailsmain{
+    height: 87px;
+    width: 537px;
+    /* border: 1px solid red; */
+}
+
+
+.contactdetailschild{
+    height: 26px;
+    width: 537px;
+    /* border: skyblue solid 1px ; */
+    display: flex;
+
+    
+    
+}
+.callicondiv{
+
+    height: 26px;
+    width: 22px;
+    /* border: white solid 1px; */
+    
+
+}
+.calliconimg{
+    height: 100%;
+    width: 100%;
+}
+.contactnumber{
+    height: 25px;
+    width: 300px;
+    /* border: white solid 1px; */
+    margin-left: 5px;
+}
+
+.maildiv{
+    width: 22px;
+    height: 26px;
+    /* border: white solid 1px; */
+}
+
+.mailboximg{
+    width: 100%;
+    height: 100%;
+
+}
+.mailtextdiv{
+
+    height: 25px;
+    width: 300px;
+    /* border: 1px solid red; */
+}
+
+.textmaindivlast{
+    height: 300px;
+    width: 537px;
+    /* border: 1px solid red; */
+    
+}
+.textmainchilds1{
+    height: 30px;
+    width: 537px;
+    /* border: 1px solid red ; */
+
+}
+
+.textmainchilds2{
+    height: 60px;
+    width: 537px;
+    /* border: 1px solid red ; */
+    
+}
+.textmainchilds3{
+    height: 30px;
+    width: 537px;
+    /* border: 1px solid red ; */
+    display: flex;
+
+}
+
+.calllogodiv{
+    height: 20px;
+    width: 20px;
+    /* border: 1px solid white ; */
+    margin-top: 5px;
+}
+.callimg{
+    height: 100%;
+}
+.mobiletext{
+    height: 20px;
+    width: 537px;
+    /* border: 1px red solid ; */
+    margin-top: 4px;
+    
+    
+    
+
+}
+
+.textmainchilds4{
+    width: 537px;
+    height: 30px;
+    /* border: red solid 1px ; */
+    display: flex;
+    
+    
+}
+
+.reachlogodiv{
+    width: 18px;
+    height: 18px;
+    /* border: 1px solid red; */
+    margin-top: 5px;
+
+   
+}
+
+.reachimg{
+    height: 100%;
+}
+
+.textdiv4{
+    height: 25px;
+    width: 400px;
+    /* border: 1px solid red ; */
+    margin-left: 5px;
+}
+.textmainchilds5{
+    height: 20px;
+    width: 537px;
+    /* border: red solid 1px; */
+    
+}
+
+.secondmain3childsof1{
+    height: 200px;
+    width: 680px;
+    /* border: maroon solid 1px ; */
+    display: flex;
+
+
+}
+
+.mhandvioletmaindiv{
+    height: 125px;
+    width: 130px;
+    /* border: white solid 1px; */
+
+}
+.lastparadiv{
+    height: 180px;
+    width: 600px;
+    /* border: 1px solid red; */
+    margin-left: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
